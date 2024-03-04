@@ -86,7 +86,7 @@ body{
 .price>span{
 	font-size:80px;
 }
-.product__info>h3,#code,.data>h3{
+.product__info>h3,#code,.description>h3{
 	color:#545453;
 }
 li{
